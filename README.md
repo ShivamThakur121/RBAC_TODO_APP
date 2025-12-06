@@ -4,17 +4,17 @@
 
 > Replace `./screenshots/image1.png` with your actual screenshot paths.
 
+### ➕ Register Page
+![Todo Form]([./screenshots/todo_form.png](https://github.com/ShivamThakur121/rbac_todo_app/blob/f9f6d8778094686f8b4db08809ad666bd637ff27/Screenshot%20(251).png))
+
 ### 🔐 Login Page
-![Login Page](./screenshots/login.png)
+![Login Page]([./screenshots/login.png](https://github.com/ShivamThakur121/rbac_todo_app/blob/f9f6d8778094686f8b4db08809ad666bd637ff27/Screenshot%20(248).png))
 
 ### 📝 Dashboard (User View)
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard]([./screenshots/dashboard.png](https://github.com/ShivamThakur121/rbac_todo_app/blob/f9f6d8778094686f8b4db08809ad666bd637ff27/Screenshot%20(249).png))
 
 ### 🛂 Admin Panel
-![Admin Dashboard](./screenshots/admin.png)
-
-### ➕ Create/Edit Todo
-![Todo Form](./screenshots/todo_form.png)
+![Admin Dashboard]([./screenshots/admin.png](https://github.com/ShivamThakur121/rbac_todo_app/blob/f9f6d8778094686f8b4db08809ad666bd637ff27/Screenshot%20(250).png))
 
 ---
 
