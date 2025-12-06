@@ -1,0 +1,114 @@
+# 📝 RBAC Todo App (Role-Based Access Control)
+
+## 📸 Screenshots
+
+> Replace `./screenshots/image1.png` with your actual screenshot paths.
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 📝 Dashboard (User View)
+![Dashboard](./screenshots/dashboard.png)
+
+### 🛂 Admin Panel
+![Admin Dashboard](./screenshots/admin.png)
+
+### ➕ Create/Edit Todo
+![Todo Form](./screenshots/todo_form.png)
+
+---
+
+A full-stack MERN (MongoDB, Express, React, Node.js) application featuring:
+
+- 🔐 User Authentication (JWT)
+- 🛂 Role-Based Access Control (User/Admin)
+- ✅ Todo Management (CRUD)
+- 🎨 Modern UI with Tailwind CSS
+- ☁️ Fully Deployable (Render + Vercel)
+
+---
+
+## 🚀 Live Demo Links (If applicable)
+
+Frontend (Vercel):  
+👉 *Add your link here*
+
+Backend (Render):  
+👉 https://rbac-todo-app.onrender.com
+
+---
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/ShivamThakur121/rbac_todo_app
+
+---
+
+## 🧩 Features
+
+### 🔐 **Authentication**
+- Register using email, username, and password
+- Secure password hashing (bcrypt)
+- Login with JWT token stored in localStorage
+- Auto-persist login (no re-login on refresh)
+
+### 🛂 **Role-Based Access Control**
+- `user` → Can manage only their own todos  
+- `admin` → Can view/edit/delete todos of all users  
+- Admin dashboard to view:
+  - All users
+  - All todos  
+  - Promote/demote roles
+
+### 📝 **Todo Management**
+- Create, Read, Update, Delete Todos
+- Fields: title, description, due date, category, completed
+- Category: Urgent / Non-Urgent
+- Completed status toggle
+
+### 🎨 **Frontend**
+- Built with React + Vite
+- Tailwind CSS for styling
+- Glassmorphism UI elements
+- Axios API integration
+
+### 🖥️ **Backend**
+- Express.js server
+- MongoDB (Mongoose)
+- Middleware:
+  - Auth guard (JWT)
+  - Admin guard (role-based)
+  - Input validation
+- REST APIs
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Router
+
+### **Backend**
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- JSON Web Tokens (JWT)
+- Bcrypt
+
+### **Deployment**
+- Backend → Render  
+- Frontend → Vercel  
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/ShivamThakur121/rbac_todo_app.git
+cd rbac_todo_app
