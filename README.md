@@ -1,6 +1,6 @@
-# 📝 RBAC Todo App (Role-Based Access Control, Protective & Responsive )
+## 📝 RBAC Todo App (Role-Based Access Control, Protective & Responsive )
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 > Replace `./screenshots/image1.png` with your actual screenshot paths.
 
